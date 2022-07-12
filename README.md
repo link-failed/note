@@ -1,0 +1,2 @@
+# notes
+mainly for db
